@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 
+# Sprawdzanie liczb z bazy do bazy
+
 def convert_base():
     number = number_entry.get()
     base = int(base_entry.get())
